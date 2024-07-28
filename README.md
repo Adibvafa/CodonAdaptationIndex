@@ -7,6 +7,10 @@ Python Codon Adaptation Index
 ![CodeFactor](https://www.codefactor.io/repository/github/benjamin-lee/codonadaptationindex/badge/master%0A%20:target:%20https://www.codefactor.io/repository/github/benjamin-lee/codonadaptationindex/overview/master)
 ![PyPI](https://img.shields.io/pypi/v/CAI.svg%0A%20:target:%20https://pypi.org/project/CAI/)
 
+*Credit: https://github.com/Benjamin-Lee/CodonAdaptationIndex*
+Due to problems with the PyPI package, this forked repo aims to update the version and push it to PyPI.
+
+
 An implementation of [Sharp and Li's 1987
 formulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC340524/pdf/nar00247-0410.pdf)
 of the [codon adaption
