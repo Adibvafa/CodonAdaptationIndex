@@ -16,7 +16,7 @@ with open("requirements.txt", encoding="utf-8") as f:
 
 setup(
     name="CAI-PyPI",
-    version="2.0.0",  # Updated version number
+    version="2.0.1",  # Updated version number
     packages=find_packages("src"),
     package_dir={"": "src"},
     description="Python implementation of codon adaptation index, updated for PyPI compatibility",
